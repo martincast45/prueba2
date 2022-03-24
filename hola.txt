@@ -1,5 +1,7 @@
 hola 
 
-esto es un archivo loquito 
+mi nombre es martin castellanos
 
-nuevamente 
+vivo ahora en argentina 
+
+estoy aprendiendo sobre git pero me cuesta un webo 
