@@ -5,3 +5,5 @@ mi nombre es martin castellanos
 vivo ahora en argentina 
 
 estoy aprendiendo sobre git pero me cuesta un webo 
+
+ahora tengo que usar nano , otra garcha mas 
