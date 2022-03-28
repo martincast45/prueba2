@@ -1,12 +1,9 @@
 hola 
 
+esto es un archivo loquito 
+
 mi nombre es martin castellanos
 
 tengo 27 años 
 
-vivo ahora en argentina 
-
-estoy aprendiendo sobre git pero me cuesta un webo 
-
-ahora tengo que usar nano , otra garcha mas 
-
+hoy hablaremos en vez de su historia, su vida y su obra maestra 
